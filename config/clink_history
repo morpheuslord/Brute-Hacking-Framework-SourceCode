@@ -1,0 +1,204 @@
+|CTAG_1611390067_10930546_13832_0
+|ls
+|s
+|s
+cd bin 
+git --help
+|ls
+git clone https://github.com/maximousblk/callow.git
+|ls
+|s
+|d callow
+|ls
+|ls
+|s
+|ip install -r requirements.txt
+|ls
+|s
+|ython challow.py
+|ls
+|ython callow.py
+|ython callow.py
+|ls
+|ython callow.py
+|ython callow.py
+|ython callow.py
+python challow.py
+|ython callow.py
+|ls
+|s
+|ls
+|ython callow.py
+|ython callow.py
+|ls
+|ython callow.py
+|ls
+|ython callow.py
+|ls
+|ls
+|rute-framework
+|rute-framework
+|rute-framework
+|rute-framework
+|rute-framework
+|d bin
+cd callow
+|ython callow.py
+|ls
+python callow.py
+|ls
+|ls
+list
+|ls
+|ls
+|it clone https://github.com/clear-code-projects/Minecraft-in-Python.git
+|d..
+|d pictures
+|ls
+|s
+|d..
+|s
+cd pictures
+cd Pictures
+|ls
+|s
+|d Users
+|d user
+|d..
+|d Users
+|d..
+cd Users
+cd user
+|s
+cd Documents
+git clone https://github.com/clear-code-projects/Minecraft-in-Python.git
+|ls
+|ls
+|d..
+cd
+|d..
+|d..
+|ls
+|s
+cd 'Program Files (x86)'/
+cd 'Program Files (x86)'
+cd  Program Files (x86)
+|ls
+|s
+cd 'Windows Portable Devices'/
+cd Windows Portable Devices/
+|ls
+|s
+|d Minecraft-in-Python/
+|ls
+|s
+pip install ursina
+|ls
+|s
+|ython UrsaCraft_video.py
+|ls
+|s
+cd Minecraft-in-Python/
+|ls
+|s
+|ython UrsaCraft_video.py
+|ython UrsaCraft_video.py
+python UrsaCraft_video.py
+|ls
+brute-framework
+|ls
+|d bin
+|s
+|d brute-v-7
+|ls
+|s
+|d bin
+cd BF-Files
+|d BF_Files
+|ls
+|d python27
+|ls
+git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+|ls
+|s
+|ython.exe sqlmap-dev/sqlmap.py
+python.exe sqlmap-dev/sqlmap.py -hh
+|ython.exe sqlmap-dev/sqlmap.py
+|d bin
+|d brute-v-7
+|d BF_Files
+cd python27
+python.exe sqlmap-dev/sqlmap.py
+|ython.exe sqlmap-dev/sqlmap.py --wizard
+python.exe sqlmap-dev/sqlmap.py --wizard
+|ls
+python.exe sqlmap-dev/sqlmap.py -u 'http://mytestsite.com/page.php?id=5'
+python.exe sqlmap-dev/sqlmap.py -u 'http://testphp.vulnweb.com/listproducts.php?cat=1'
+|d bin
+|s
+cd brute-v-7
+|ls
+|s
+cd BF_Files
+|ls
+|s
+cd python
+|ls
+git clone https://github.com/Z4nzu/hackingtool.git
+|s
+|ip install -r requirements.txt
+|ls
+|d..
+|d..
+cd..
+|ls
+|s
+cd hackingtool/
+|ls
+|s
+pip install -r requirements.txt
+pip install -r requirement.txt
+|ls
+|s
+python hackingtool.py
+python hackingtool.py -h
+|ls
+|d bin
+cd chocoletey
+|ls
+|s
+cd chocolatey/
+|ls
+choco.exe -?
+choco.exe update
+choco.exe -update
+|ls
+choco.exe install curl
+|ls
+http://www.geocreepy.com/get_token.html
+https://www.geocreepy.com/get_token.html
+|ls
+choco -h
+|hoco -?
+choco -?
+choco install -?
+|ls
+choco install cmder
+|ls
+duf --all
+|ls
+duf -h
+duf c:\ --all
+duf --all c:\
+|kls
+|ls
+choco install cmder 
+|ls
+cd bin
+ls
+python3 penbox.py*
+python3 penbox.py
+|ls
+python penbox.py
+ckls
+cls
