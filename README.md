@@ -25,7 +25,9 @@ https://www.mediafire.com/file/1ua95g02vbww6nq/git-for-windows.rar/file
 **************************************************************************************
 **************************************************************************************
 # NOTE  
+THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
 u need to extract the files from the rar archives to the respected locations 
 bin.rar files to the E:bin/ location. git-for-windows.rar files to E:vendor/
 **************************************************************************************
 **************************************************************************************
+
