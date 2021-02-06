@@ -28,7 +28,6 @@ padbuster="%CMDER_ROOT%\bin\strawberry-perl\portableshell.bat" "%CMDER_ROOT%\bin
 recon-ng="%CMDER_ROOT%\bin\python\python.exe" "%CMDER_ROOT%\bin\python\recon-ng" $*
 recon-web="%CMDER_ROOT%\bin\python\python.exe" "%CMDER_ROOT%\bin\python\recon-web" $*
 instaosint="%CMDER_ROOT%\bin\python\python.exe" "%CMDER_ROOT%\bin\python\main.py" $*
-creepy="%CMDER_ROOT%\bin\creepy\CreepyMain.exe" $*
 ngrep="%CMDER_ROOT%\bin\ngrep\ngrep.exe" $*
 fast-brute="%CMDER_ROOT%\bin\python\python.exe" "%CMDER_ROOT%\bin\python\WifiBF-master\WifiBF.py" $*
 evil-winrm="%CMDER_ROOT%\bin\brute-framework\BF_Files\ruby\bin\ruby.exe" "%CMDER_ROOT%\bin\brute-framework\BF_Files\ruby\bin\evil-winrm\evil-winrm.rb" $*
