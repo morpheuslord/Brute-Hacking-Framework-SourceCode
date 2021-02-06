@@ -6,7 +6,38 @@ u will need bin.rar & git-for-windows.rar & windows 10 device 64 bit and nothing
 **************************************************************************************
 **************************************************************************************
 # bin-folder
-u need to extract the folders from the bin.rar to this folder
+u need to extract the folders from the bin.rar to this folder. The tools include :- 
+brute-framework from my previous-works (main-tool-kit) includes all the nessary tools, 
+portabletools ,
+photon ,
+virtualbox ,
+cygwin ,
+terminus ,
+curl ,
+nikto ,
+joomscan ,
+dotdotpwn ,
+padbuster ,
+recon-ng ,
+recon-web ,
+instaosint ,
+creepy ,
+ngrep ,
+fast-brute ,
+evil-winrm ,
+ettercap ,
+ruby ,
+python27 ,
+python3 ,
+perl ,
+gem ,
+pip3 ,
+choco ,
+duf ,
+pip2 ,
+urh-universal radio hacker ,
+atom ,
+creepy ,
 **************************************************************************************
 **************************************************************************************
 # git-for-windows
