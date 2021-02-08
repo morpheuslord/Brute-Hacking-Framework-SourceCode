@@ -45,3 +45,7 @@ urh="%CMDER_ROOT%\bin\urh\urh.exe" $*
 atom="%CMDER_ROOT%\bin\brute-v-7\BF_Files\Atom\atom.exe" $*
 creepy="%CMDER_ROOT%\bin\CreepyMain.exe" $*
 list="%CMDER_ROOT%\config\list.cmd" $*
+androbugs="%CMDER_ROOT%\bin\brute-v-7\BF_Files\AndroBugs_Framework\androbugs.exe" $*
+androBugs_massive="%CMDER_ROOT%\bin\brute-v-7\BF_Files\AndroBugs_Framework\AndroBugs_MassiveAnalysis.exe" $*
+androBugs_report="%CMDER_ROOT%\bin\brute-v-7\BF_Files\AndroBugs_Framework\AndroBugs_ReportByVectorKey.exe" $*
+androBugs_reportsummary="%CMDER_ROOT%\bin\brute-v-7\BF_Files\AndroBugs_Framework\AndroBugs_ReportSummary.exe" $*
