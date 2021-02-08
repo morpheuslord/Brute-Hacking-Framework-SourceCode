@@ -44,3 +44,4 @@ pip2="%CMDER_ROOT%\bin\brute-framework\BF_Files\Python27\Scripts\pip.exe" $*
 urh="%CMDER_ROOT%\bin\urh\urh.exe" $*
 atom="%CMDER_ROOT%\bin\brute-v-7\BF_Files\Atom\atom.exe" $*
 creepy="%CMDER_ROOT%\bin\CreepyMain.exe" $*
+list="%CMDER_ROOT%\config\list.cmd" $*
