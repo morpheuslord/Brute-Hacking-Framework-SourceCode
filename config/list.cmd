@@ -73,5 +73,9 @@ echo  - choco
 echo  - duf
 echo  - pip2
 echo  - urh
+echo  - androbugs
+echo  - androBugs_massive
+echo  - androBugs_report
+echo  - androBugs_reportsummary
 echo.
 PAUSE
