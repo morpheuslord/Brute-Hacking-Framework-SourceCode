@@ -45,6 +45,31 @@ call colorchar.exe /0B " LISTAING OF ALL TOOLS "
 echo.
 echo  - atom
 echo  - brute-framework
+echo 		 - help             : Prints this page                      - gitcmd           : git for windows
+echo  		 - wifiscan         : Performs a WI-FI scan                 - gitbash          : bash for windows
+echo 		 - interface        : Open Interface Management             - aircrack-ng      : use aircrack-ng
+echo  		 - attack           : Attacks on selected WI-FI             - vega             : web scanner 
+echo  		 - utility          : other utility                         - ncat             : capture tool
+echo 		 - putty            : ssh and telnet server device          - zap              : owasp zap tool
+echo 		 - aircrack-ng-gui  : aircrack graphical user interface     - thc-hydra        : bruteforcer tool
+echo 		 - networkmanager   : track network and manage network      - subbrute         : web application
+echo 		 - hashcat          : hashcat for windows 64 bit            - sslscan          : scans ssl server
+echo 		 - hashcat32        : hashcat for windows 32 bit            - exiftool         : collects exif data
+echo 		 - burpsuite        : using burpsuite                       - processhacker    : process monitoring tool
+echo 		 - wireshark        : wireshark for wifi hacking and capturing tool
+echo 		 - ipscanner        : ip port scanner 
+echo 		 - atom             : text editor and IDE
+echo 		 - hatch            : website bruteforcer
+echo 		 - pureblood        : additional hacking framework
+echo 		 - sqitedatabase    : sql database
+echo 		 - rainbowcrack     : crackes rainbowtable
+echo 		 - omphcrack        : password cracking tool 
+echo 		 - nmap             : port scanner
+echo 		 - sherlock         : collects username information
+echo 		 - investigo        : investigation tool for username similar to sherlock
+echo 		 - testsslserver    : testes for the ssl server
+echo 		 - wpscan           : url scanner 
+
 echo  - portabletools
 echo  - photon
 echo  - virtualbox
