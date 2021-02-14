@@ -67,6 +67,10 @@ to make the best tool for new students and gives basic practice to hacking and t
 installed is limited and will comfort u to do some basic hacking tasks and do some osint in depth
 **************************************************************************************
 **************************************************************************************
+# special thanks to 
+Samuel Vasko for cmder. NullByte for info on some of the tools in the project. Avi Mimoun for the idea of source-code repository.
+**************************************************************************************
+**************************************************************************************
 # NOTE  
 THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
 u need to extract the files from the rar archives to the respected locations 
