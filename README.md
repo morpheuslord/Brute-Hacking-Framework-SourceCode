@@ -71,7 +71,7 @@ installed is limited and will comfort u to do some basic hacking tasks and do so
 **************************************************************************************
 # special thanks to 
 --------------------
-Samuel Vasko for cmder. NullByte for info on some of the tools in the project. Avi Mimoun for the idea of source-code repository. TUX for helping in the start of this tool building process.
+Samuel Vasko for [cmder](https://github.com/cmderdev/cmder). NullByte for info on some of the tools in the project. Avi Mimoun for the idea of source-code repository. TUX for helping in the start of this tool building process.
 **************************************************************************************
 # NOTE 
 -------
