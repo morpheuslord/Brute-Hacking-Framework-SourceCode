@@ -1,5 +1,5 @@
 ![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
-[![Twitter](https://twitter.com/Morpheuslord2)]
+[![Twitter](https://img.shields.io/badge/twitter-@sqlmap-blue.svg)](https://twitter.com/Morpheuslord2)
 # Brute-Hacking-Framework-SourceCode
 ------------------------------------
 **************************************************************************************
