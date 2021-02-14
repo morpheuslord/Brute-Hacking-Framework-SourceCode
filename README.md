@@ -63,8 +63,8 @@ u can find updates for this in the brute-framework updates repository
 **************************************************************************************
 **************************************************************************************
 # Motive
-**to make the best tool for new students and gives basic practice to hacking and the software 
-**installed is limited and will comfort u to do some basic hacking tasks and do some osint in depth
+to make the best tool for new students and gives basic practice to hacking and the software 
+installed is limited and will comfort u to do some basic hacking tasks and do some osint in depth
 **************************************************************************************
 **************************************************************************************
 # NOTE  
