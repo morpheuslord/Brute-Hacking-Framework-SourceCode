@@ -62,6 +62,11 @@ u can download the SETUP.EXE file from this link :- http://www.mediafire.com/fil
 u can find updates for this in the brute-framework updates repository 
 **************************************************************************************
 **************************************************************************************
+# Motive
+**to make the best tool for new students and gives basic practice to hacking and the software 
+**installed is limited and will comfort u to do some basic hacking tasks and do some osint in depth
+**************************************************************************************
+**************************************************************************************
 # NOTE  
 THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
 u need to extract the files from the rar archives to the respected locations 
