@@ -54,6 +54,10 @@ download link :-
 https://www.mediafire.com/file/1ua95g02vbww6nq/git-for-windows.rar/file
 **************************************************************************************
 **************************************************************************************
+# ALTERNATIVE
+u can download the SETUP.EXE file from this link :- http://www.mediafire.com/file/as5ab1sz7cot6qg/brute-setup.exe/file
+**************************************************************************************
+**************************************************************************************
 # NOTE  
 THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
 u need to extract the files from the rar archives to the respected locations 
