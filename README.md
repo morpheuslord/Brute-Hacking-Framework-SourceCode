@@ -5,7 +5,10 @@
 **************************************************************************************
 # Required files & dependencies
 -------------------------------
-u will need bin.rar & git-for-windows.rar & windows 10 device 64 bit and nothing else
+u will need bin.rar & git-for-windows.rar & windows 10 device 64 bit and 
+u will need to have npcap and usbpcap to run nmap and wireshark
+And ur pen drive must be registered as E: drive for smooth running of the tool 
+nothing else
 **************************************************************************************
 # bin-folder
 ------------
