@@ -90,11 +90,15 @@ This command will lead to the main framework
     λ Brute-framework 
 
 U need to type this command to access most of the tools 
-If u type this command in the 
+If u type this command in the total kit
 
-brute-framework u can see all the tools included
+In brute-framework u can see all the tools included
 
-U will be prompted to this command 
+U will be prompted to this command interface after u type 
+
+    λ Brute-Framework
+
+U have to type help command in the new interface to see the listed commands 
 
     Users[]- help
 
