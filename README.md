@@ -95,11 +95,11 @@ If u type this command in the brute-framework u can see all the tools included
     Users[]- help
 
 U can access other tools by checking the user_aliases.cmd file in the config folder u can add and delete tools from it 
-U can take YouTube for learning the nessary skills I prefer 
+U can take YouTube for learning the nessary skills I prefer :-
 *nullbyte
 *networkchuck
 *zsecurity
-And for brute framework original code check
+And for brute framework original code check :-
 *TechnicalUserX 
 Thank u
 **************************************************************************************
