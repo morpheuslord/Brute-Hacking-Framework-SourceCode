@@ -77,6 +77,15 @@ installed is limited and will comfort u to do some basic hacking tasks and do so
 --------------------
 Samuel Vasko for [cmder](https://github.com/cmderdev/cmder). [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) for info on some of the tools in the project. [Avi Mimoun](https://twitter.com/AviMimoun) for the idea of source-code repository. [TUX](https://www.youtube.com/channel/UCdshuXLzwZ0ExTOnhIJ0ITgfor) helping in the start of this tool building process.
 **************************************************************************************
+# usage
+-------
+It's easy to use to run the tools u need to type :
+
+   List
+
+In the command interface
+U will be shown all the tools included by me 
+**************************************************************************************
 # NOTE 
 -------
 THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
