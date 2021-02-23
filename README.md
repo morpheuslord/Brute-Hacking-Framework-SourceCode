@@ -1,6 +1,5 @@
 ![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
 [![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
-[![Email](https://protonmail.com/-Morpheuslord-red.svg](Morpheuslord.protonmail.com)
 # Brute-Hacking-Framework-SourceCode
 ------------------------------------
 **************************************************************************************
@@ -82,6 +81,7 @@ Samuel Vasko for [cmder](https://github.com/cmderdev/cmder). [NullByte](https://
 THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
 u need to extract the files from the rar archives to the respected locations 
 bin.rar files to the E:bin/ location. git-for-windows.rar files to E:vendor/
-**************************************************************************************
+Contact me email - [protonmail](Morpheuslord.protonmail.com)
+*************************************************************************************
 **************************************************************************************
 
