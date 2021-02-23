@@ -1,6 +1,6 @@
 ![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
 [![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
-[![Email](https://img.shields.io/badge/protonmail-Morpheuslord-red.svg)](Morpheuslord.protonmail.com)
+[![Email](https://protonmail.com/-Morpheuslord-red.svg](Morpheuslord.protonmail.com)
 # Brute-Hacking-Framework-SourceCode
 ------------------------------------
 **************************************************************************************
