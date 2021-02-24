@@ -118,7 +118,7 @@ Thank u
 THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
 u need to extract the files from the rar archives to the respected locations 
 bin.rar files to the E:bin/ location. git-for-windows.rar files to E:vendor/ . 
-Contact me email - (Morpheuslord.protonmail.com)
+Contact me email - (Morpheuslord@protonmail.com)
 ----------------
 *************************************************************************************
 **************************************************************************************
