@@ -111,7 +111,11 @@ U can take YouTube for learning the nessary skills I prefer these YouTube channe
 And for brute framework original code check this channel :-
 *TechnicalUserX. 
 
-Thank u
+**************************************************************************************
+# tutorial
+-----------
+https://www.youtube.com/watch?v=5tC7vXub2Us&list=PLyJepbl1ZQGC1mNQszplFd_DTYMBVz9AS
+
 **************************************************************************************
 # NOTE 
 -------
