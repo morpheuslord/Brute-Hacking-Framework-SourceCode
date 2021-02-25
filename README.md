@@ -114,9 +114,9 @@ And for brute framework original code check this channel :-
 **************************************************************************************
 # tutorial
 -----------
-tutorial1 - https://www.youtube.com/watch?v=5tC7vXub2Us
-tutorial2 - https://www.youtube.com/watch?v=FTGpkr8pN6Q
-tutorial3 - https://www.youtube.com/watch?v=FQf7WirGvgo
+tutorial1 - ![tutorial1] (https://www.youtube.com/watch?v=5tC7vXub2Us)
+tutorial2 - ![tutorial2] (https://www.youtube.com/watch?v=FTGpkr8pN6Q)
+tutorial3 - ![tutorial3] (https://www.youtube.com/watch?v=FQf7WirGvgo)
 
 **************************************************************************************
 # NOTE 
