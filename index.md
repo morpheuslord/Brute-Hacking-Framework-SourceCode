@@ -129,5 +129,6 @@ Contact me email - (Morpheuslord@protonmail.com)
 
 # follow my blogs on 
 [Hackernoon](https://hackernoon.com/u/morpheuslord)
+[![Blogger](https://github.com/simple-icons/simple-icons/blob/develop/icons/blogger.svg)](https://www.blogger.com/profile/14699652002702454937)
 
 # thank you
