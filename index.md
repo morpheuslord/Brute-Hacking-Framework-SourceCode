@@ -1,20 +1,14 @@
-
-![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
-[![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
-[![Instagram](https://img.shields.io/badge/instagram-morpheuslord_9034-yellow.svg)](https://instagram.com/morpheuslord_9034)
-
 # Brute-Hacking-Framework-SourceCode
-------------------------------------
 
 # Required files & dependencies
--------------------------------
+
 u will need bin.rar & git-for-windows.rar & windows 10 device 64 bit and 
 u will need to have npcap and usbpcap to run nmap and wireshark
 And ur pen drive must be registered as E: drive for smooth running of the tool 
 nothing else
 
 # bin-folder
-------------
+
 u need to extract the folders from the bin.rar to this folder. The tools include :- 
 * brute-framework from my previous-works (main-tool-kit) includes all the nessary tools
 * portabletools 
@@ -115,7 +109,7 @@ And for brute framework original code check this channel :-
 
 
 # tutorial
------------
+
 [tutorial1](https://www.youtube.com/watch?v=5tC7vXub2Us)
 
 [tutorial2](https://www.youtube.com/watch?v=FTGpkr8pN6Q)
@@ -127,5 +121,13 @@ And for brute framework original code check this channel :-
 THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
 u need to extract the files from the rar archives to the respected locations 
 bin.rar files to the E:bin/ location. git-for-windows.rar files to E:vendor/ . 
+
+# contact me on
+[![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
+[![Instagram](https://img.shields.io/badge/instagram-morpheuslord_9034-yellow.svg)](https://instagram.com/morpheuslord_9034)
 Contact me email - (Morpheuslord@protonmail.com)
 
+# follow my blogs on 
+[Hackernoon](https://hackernoon.com/u/morpheuslord)
+
+# thank you
