@@ -50,17 +50,17 @@ u need to extract the git-for-windows folder from git-for-windows.rar to the ven
 # bin.rar 
 
 this is the set off all the tools required to run the program u can dowload it from the link:-
-https://www.mediafire.com/file/0ivv3sqczf81oo8/bin.rar/file
+[bin files](https://www.mediafire.com/file/0ivv3sqczf81oo8/bin.rar/file)
 
 # git-for-windows
 
 this is the git for windows 64-bit this is required to run the bash and wsl tools from conemu
 download link :-
-https://www.mediafire.com/file/1ua95g02vbww6nq/git-for-windows.rar/file
+[git-for-windows](https://www.mediafire.com/file/1ua95g02vbww6nq/git-for-windows.rar/file)
 
 # ALTERNATIVE
 
-u can download the SETUP.EXE file from this link :- http://www.mediafire.com/file/as5ab1sz7cot6qg/brute-setup.exe/file
+u can download the SETUP.EXE file from this link :- [setup_file](http://www.mediafire.com/file/as5ab1sz7cot6qg/brute-setup.exe/file)
 
 # updates
 
@@ -112,14 +112,11 @@ And for brute framework original code check this channel :-
 
 # tutorial
 -----------
-tutorial1 -
-(https://www.youtube.com/watch?v=5tC7vXub2Us)
+[tutorial1](https://www.youtube.com/watch?v=5tC7vXub2Us)
 
-tutorial2 -
-(https://www.youtube.com/watch?v=FTGpkr8pN6Q)
+[tutorial2](https://www.youtube.com/watch?v=FTGpkr8pN6Q)
 
-tutorial3 -
-(https://www.youtube.com/watch?v=FQf7WirGvgo)
+[tutorial3](https://www.youtube.com/watch?v=FQf7WirGvgo)
 
 
 # NOTE 
@@ -129,6 +126,6 @@ bin.rar files to the E:bin/ location. git-for-windows.rar files to E:vendor/ .
 Contact me email - (Morpheuslord@protonmail.com)
 
 
-![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
+[![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
 [![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
 [![Instagram](https://img.shields.io/badge/instagram-morpheuslord_9034-yellow.svg)](https://instagram.com/morpheuslord_9034)
