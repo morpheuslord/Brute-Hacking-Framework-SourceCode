@@ -1,4 +1,8 @@
 
+[![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
+[![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
+[![Instagram](https://img.shields.io/badge/instagram-morpheuslord_9034-yellow.svg)](https://instagram.com/morpheuslord_9034)
+
 # Brute-Hacking-Framework-SourceCode
 ------------------------------------
 
@@ -125,7 +129,3 @@ u need to extract the files from the rar archives to the respected locations
 bin.rar files to the E:bin/ location. git-for-windows.rar files to E:vendor/ . 
 Contact me email - (Morpheuslord@protonmail.com)
 
-
-[![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
-[![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
-[![Instagram](https://img.shields.io/badge/instagram-morpheuslord_9034-yellow.svg)](https://instagram.com/morpheuslord_9034)
