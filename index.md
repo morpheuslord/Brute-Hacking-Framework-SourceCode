@@ -46,39 +46,39 @@ u need to extract the folders from the bin.rar to this folder. The tools include
 * atom .
 
 # git-for-windows
------------------
+
 u need to extract the git-for-windows folder from git-for-windows.rar to the vendor folder
 
 # bin.rar 
----------
+
 this is the set off all the tools required to run the program u can dowload it from the link:-
 https://www.mediafire.com/file/0ivv3sqczf81oo8/bin.rar/file
 
 # git-for-windows
------------------
+
 this is the git for windows 64-bit this is required to run the bash and wsl tools from conemu
 download link :-
 https://www.mediafire.com/file/1ua95g02vbww6nq/git-for-windows.rar/file
 
 # ALTERNATIVE
--------------
+
 u can download the SETUP.EXE file from this link :- http://www.mediafire.com/file/as5ab1sz7cot6qg/brute-setup.exe/file
 
 # updates
-----------
+
 u can find updates for this in the brute-framework updates repository 
 
 # Motive
---------
+
 to make the best tool for new students and gives basic practice to hacking and the software 
 installed is limited and will comfort u to do some basic hacking tasks and do some osint in depth
 
 # special thanks to 
---------------------
+
 Samuel Vasko for [cmder](https://github.com/cmderdev/cmder). [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) for info on some of the tools in the project. [Avi Mimoun](https://twitter.com/AviMimoun) for the idea of source-code repository. [TUX](https://www.youtube.com/channel/UCdshuXLzwZ0ExTOnhIJ0ITgfor) helping in the start of this tool building process.
 
 # usage
--------
+
 It's easy to use to run the tools u need to type :
 
     λ list
@@ -125,11 +125,10 @@ tutorial3 -
 
 
 # NOTE 
--------
 THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
 u need to extract the files from the rar archives to the respected locations 
 bin.rar files to the E:bin/ location. git-for-windows.rar files to E:vendor/ . 
 Contact me email - (Morpheuslord@protonmail.com)
-----------------
+
 
 
