@@ -130,7 +130,7 @@ Contact me email - (Morpheuslord@protonmail.com)
 # follow my blogs on 
 -----------------------
 [![Hackernoon](https://hackernoon.com/hn-logo.png)](https://hackernoon.com/u/morpheuslord)
-***********
+
 [![Blogger](https://www.blogger.com/img/blogger-logotype-color-black-1x.png)](https://www.blogger.com/profile/14699652002702454937)
 
 # thank you
