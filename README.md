@@ -69,7 +69,7 @@ Deployment:
 To run the project you need to first install the latest installer from my download links given below which gets updated once a new realese is done.
 
 ```url
-
+https://mega.nz/file/H7oVnBDA#1OcEjx1iIydY38fq0_KdaLLtXgHBB0z1lCpru_28yxg
 ```
 After downloading just run the exe file accept the terms, select the install location and run the exe file once installed.
 
