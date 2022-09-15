@@ -3,7 +3,7 @@
 ![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
 [![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
 [![Hackernoon](https://hackernoon.com/_next/image?url=https%3A%2F%2Fhackernoon.com%2Fhn-logo.png&w=256&q=75)](https://hackernoon.com/u/morpheuslord)
-
+<script src="https://tryhackme.com/badge/702018"></script>
 # Brute Framework
 
 The Brute Hacking framework is my version of PentestBox with updated tools and services but also with a few more updates of tools and updated interface.
