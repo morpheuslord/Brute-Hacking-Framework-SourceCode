@@ -2,8 +2,9 @@
 
 ![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
 [![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
-[![Hackernoon](https://hackernoon.com/_next/image?url=https%3A%2F%2Fhackernoon.com%2Fhn-logo.png&w=256&q=75)](https://hackernoon.com/u/morpheuslord)
-# Brute Framework
+[![Hacker noon](https://hackernoon.com/_next/image?url=https%3A%2F%2Fhackernoon.com%2Fhn-logo.png&w=256&q=75)](https://hackernoon.com/u/morpheuslord)
+
+# **Brute Framework**
 
 The Brute Hacking framework is my version of PentestBox with updated tools and services but also with a few more updates of tools and updated interface.
 
@@ -12,15 +13,15 @@ The Brute Hacking framework is my version of PentestBox with updated tools and s
 ## Optimizations
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility improvements.
-I have also made sure that i install a proper installer and listing script to install new projects into the framework
+I have also made sure that I install a proper installer and listing script to install new projects into the framework
 but it will also has a update-installer script to update the installer.
 The installer.sh script is located on https://github.com/morpheuslord/installer_update_brute it is an updateable project just add it into its appropriate location and then configure the installer location after that save it and just use the update function on your brute-framework to update it.
 
 
 
-The other optimization is that in the previous version everything was scattered and had a lot of useless tools so i organized it and removed some of the useless tools making it better for fast and reliable usage.
+The other optimization is that in the previous version everything was scattered and had a lot of useless tools so I organized it and removed some of the useless tools making it better for fast and reliable usage.
 
-I also included metasploit into the framework and this requires you to add exception in your anitivirus software to run smoothly.
+I also included Metasploit into the framework and this requires you to add exception in your antivirus software to run smoothly.
 ## Features
 
 - Portable
@@ -32,11 +33,11 @@ I also included metasploit into the framework and this requires you to add excep
 
 ## Note
 
-Because I have intigrated metasploit framework into the package we might have to add an exception in your antivirus software to the folder you are installing if in 
+Because I have integrated Metasploit framework into the package we might have to add an exception in your antivirus software to the folder you are installing if in
 ```
 C:\bin or C:\brute-framework
 ```
-Then add C:\bin in your antivirus exception it differs depending on your software installed just lookitup on the docs or on the internet.
+Then add C:\bin in your antivirus exception it differs depending on your software installed just lookup on the docs or on the internet.
 ## Basic Commands
 
 First run the brute-framework.exe
@@ -59,20 +60,20 @@ Run the tools for example
 
 ## Installation and Deployment of Brute-Framework V2
 
-Installation: 
+Installation:
 
 The installation is easy you just need to have the requirements satisfied and the installer downloaded.
 
 REQUIREMENTS:
 
-- 32GB or high USB 3.0 Pendrive
+- 32GB or high USB 3.0 Pen drive
 - Windows 10/11
-- System must have atleast 4GB ram with a resonable processor
-Thats it.
+- System must have at least 4GB ram with a reasonable processor
+That's it.
 
 Deployment:
 
-To run the project you need to first install the latest installer from my download links given below which gets updated once a new realese is done.
+To run the project you need to first install the latest installer from my download links given below which gets updated once a new release is done.
 
 ```url
 https://mega.nz/file/H7oVnBDA#1OcEjx1iIydY38fq0_KdaLLtXgHBB0z1lCpru_28yxg
@@ -81,7 +82,7 @@ After downloading just run the exe file accept the terms, select the install loc
 
 ## Brute-Framework V1 Downloads
 
-To Download fully working Brute-Framework V1 you can follow 2 methoads 
+To Download fully working Brute-Framework V1 you can follow 2 method's
 
 #### Method 1: `Installer`
 
@@ -92,7 +93,7 @@ To Download fully working Brute-Framework V1 you can follow 2 methoads
 
 #### Method 2: `Git Clone`
 - Download The files via the given links:
-Bin :- 
+Bin :-
 `https://www.mediafire.com/file/0ivv3sqczf81oo8/bin.rar/file`
 
 Git For Windows:- `https://www.mediafire.com/file/1ua95g02vbww6nq/git-for-windows.rar/file`
@@ -101,12 +102,12 @@ And git clone the project from above.
 
 - Move the bin.rar contents to the bin folder
 - Move the git-for-windows.rar contents to the vendor folder
-- run the main brute-Framework.exe file to varify.
+- run the main brute-Framework.exe file to verify.
 - *NOTE* - the files root must be in the `C:\` directory
- 
+
 ## YT Videos
 
-Youtube:
+YouTube:
 
 * https://www.youtube.com/watch?v=5tC7vXub2Us
 * https://www.youtube.com/watch?v=FTGpkr8pN6Q
@@ -118,16 +119,16 @@ Youtube:
 
 #### Previous versions:
 
-| Name      | Discription | Link                              |
+| Name      | Description | Link                              |
 | :-------- | :---------- | :-------------------------------- |
 | PassInfo  | Sketch Project for brute-framework| https://github.com/morpheuslord/passinfo.cmd |
 | Brute-framework V-1| First Completed Project| https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode|
 
 ## Further updates
 
-The current update I am working on is the package installer or the `update-installer.sh` filei am trying to make it more like a package installer.
+The current update I am working on is the package installer or the `update-installer.sh` file I am trying to make it more like a package installer.
 
-Currently it uses the updated file from another repo of mine to update but i want to eliminate that need.
+Currently it uses the updated file from another repo of mine to update but I want to eliminate that need.
 
 By the way if you know any cool tool that is compatible with windows add that in the installer file it will rise the tools the users like yourself and others can use making it even better.
 
